@@ -1,4 +1,4 @@
-# KittenTTS MCP Server (Windows)
+# LOCAL Kitten TTS MCP Server (Windows)
 
 This project packages the **KittenTTS nano v0.8** model as a local **Model Context Protocol (MCP)** server for Codex-compatible clients on Windows.
 
