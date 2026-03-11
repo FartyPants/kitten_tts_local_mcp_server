@@ -158,7 +158,7 @@ Third-party components and model/runtime dependencies may carry their own licens
 - nlohmann/json for JSON handling
 - FPHAM for gluing it together
 
-# Friendly Companion Skill
+# Friendly Companion Skill (example)
 
 The `friendly-companion` skill adds a calm, human-feeling interaction layer on top of normal assistant work.
 
@@ -240,11 +240,6 @@ This skill works well for:
 - voice-enabled coding workflows
 - spoken confirmations before a detailed text reply
 - interfaces where presence matters but precision still belongs in text
-
-## Files
-
-- `SKILL.md`: full skill instructions
-- `agents/openai.yaml`: short display metadata for agent integration
 
 ## Summary
 
