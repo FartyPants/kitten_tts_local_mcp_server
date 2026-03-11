@@ -16,6 +16,9 @@ The current build is fixed to:
 - Default locale: `en-us`
 - Default speed: `1.0`
 
+- kitten_tts_mcp.exe
+SHA-256: 49337ad01e21c2eb0760251d308fd31fbd27d3f89bf2a647f1ff5f750c384739
+
 ## What This Repository Is For
 
 Use this project when you want a local TTS backend that an MCP client can call as a tool.
