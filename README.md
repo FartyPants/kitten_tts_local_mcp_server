@@ -1,6 +1,6 @@
 # LOCAL Kitten TTS MCP Server (Windows)
 
-This project packages the **KittenTTS nano v0.8** model as a local **Model Context Protocol (MCP)** server for Codex-compatible clients on Windows.
+This project packages the **KittenTTS nano v0.8** model as a local **Model Context Protocol (MCP)** server for MCP-compatible LLM tool calls on Windows.
 
 It is not a general training repository and it is not a hosted inference endpoint. It is a small native C++ server that runs over **stdio**, loads a fixed local ONNX model, and exposes a simple tool interface for text-to-speech:
 
